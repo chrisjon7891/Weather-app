@@ -10,6 +10,11 @@ body {
   padding: 10px 15px;
   border-radius: 10px;
 }
+.weather-app {
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+}
 
 h1 {
   text-align: center;
