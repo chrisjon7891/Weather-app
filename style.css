@@ -1,9 +1,9 @@
 body {
   font-family: "Gill Sans", sans-serif;
-  background-color: lightyellow;
+  background-color: #add8e6;
 }
 .container {
-  background: linear-gradient(lightyellow);
+  background: linear-gradient(#add8e6);
   max-height: min-content;
   max-width: 700px;
   margin: 10px auto;
@@ -12,7 +12,7 @@ body {
 }
 .weather-app {
   padding: 20px;
-  border: 1px solid #dadde1;
+  border: 1px solid #add8e6;
   border-radius: 5px;
 }
 
